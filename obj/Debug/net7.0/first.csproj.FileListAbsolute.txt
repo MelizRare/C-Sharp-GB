@@ -1,0 +1,15 @@
+J:\Jeka\C# GB\d\first\bin\Debug\net7.0\first.exe
+J:\Jeka\C# GB\d\first\bin\Debug\net7.0\first.deps.json
+J:\Jeka\C# GB\d\first\bin\Debug\net7.0\first.runtimeconfig.json
+J:\Jeka\C# GB\d\first\bin\Debug\net7.0\first.dll
+J:\Jeka\C# GB\d\first\bin\Debug\net7.0\first.pdb
+J:\Jeka\C# GB\d\first\obj\Debug\net7.0\first.csproj.AssemblyReference.cache
+J:\Jeka\C# GB\d\first\obj\Debug\net7.0\first.GeneratedMSBuildEditorConfig.editorconfig
+J:\Jeka\C# GB\d\first\obj\Debug\net7.0\first.AssemblyInfoInputs.cache
+J:\Jeka\C# GB\d\first\obj\Debug\net7.0\first.AssemblyInfo.cs
+J:\Jeka\C# GB\d\first\obj\Debug\net7.0\first.csproj.CoreCompileInputs.cache
+J:\Jeka\C# GB\d\first\obj\Debug\net7.0\first.dll
+J:\Jeka\C# GB\d\first\obj\Debug\net7.0\refint\first.dll
+J:\Jeka\C# GB\d\first\obj\Debug\net7.0\first.pdb
+J:\Jeka\C# GB\d\first\obj\Debug\net7.0\first.genruntimeconfig.cache
+J:\Jeka\C# GB\d\first\obj\Debug\net7.0\ref\first.dll
